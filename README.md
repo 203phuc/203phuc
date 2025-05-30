@@ -1,5 +1,5 @@
 ## Hi there 👋
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 # 👋 Hi, I'm Trần Hoàng Phúc
 
 🎯 Full-Stack Developer | 🌐 Passionate about building scalable web applications | 📍 Đà Nẵng, Vietnam  
