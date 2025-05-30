@@ -9,18 +9,13 @@
 🎨 Front-End: React.js - Three.js  
 🧰 Tools: Git - GitHub - Postman - VS Code
 
-## 📚 I’m interested in
+## 📚 Areas I'm Exploring
 
 - Full-stack web development  
 - Game development (Unity, graphics, interactivity)  
 - Cybersecurity basics  
 - IoT experiments and edge computing  
 - UI/UX and 3D visualization
-
-## 💬 I regulary not only code, but also build projects like:
-- GreenPrep (test-taking platform)
-- Online Furniture Website (3D e-commerce)
-- UniMagazine (university CMS)
 
 ## 📫 Reach me at
 📧 phuctranhoang203@gmail.com  
@@ -31,5 +26,4 @@
 - 💼 IT Graduate @ Greenwich Vietnam  
 - 🔭 Working on MERN projects, improving system design  
 - 🌱 Learning software architecture and advanced TypeScript  
-- 👯 Looking to collaborate on web apps, education tools, or creative tech  
 - 🤝 Open to open-source contributions and new ideas  
