@@ -20,7 +20,7 @@
 ## 📫 Reach me at
 📧 phuctranhoang203@gmail.com  
 🐙 GitHub: [203phuc](https://github.com/203phuc)  
-🔗 LinkedIn: [linkedin.com/in/phuctranhoang203](linkedin.com/in/thphuc203)
+🔗 LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/thphuc203/)
 
 
 ## ⚡️ Currently
